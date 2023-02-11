@@ -3,9 +3,9 @@
 
 # Tecnologias aplicadas
 ## Back-end
-➤ 
+➤ Java
 ## Front-end 
-➤ 
+➤ Spring
 
 # Desenvolvedor
 Lucas William
