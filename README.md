@@ -4,6 +4,7 @@
 # Tecnologias aplicadas
 ## Back-end
 ➤ Java
+➤ Heroku
 ## Front-end 
 ➤ Spring
 
