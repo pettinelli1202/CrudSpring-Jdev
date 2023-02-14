@@ -7,6 +7,8 @@
 ➤ Heroku
 ## Front-end 
 ➤ Spring
+➤ Html/Css
+➤ Javascript
 
 # Desenvolvedor
 Lucas William
